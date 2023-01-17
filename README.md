@@ -34,7 +34,7 @@ this was a problem for me because a library I was using required it.
 a few structs/functions were renamed. (Usually prefixed by 'Ray')
 
 e.g.
-- RayRectangle -> RayRayRectangle
+- Rectangle -> RayRectangle
 - DrawText -> RayDrawText
 - CloseWindow -> RayCloseWindow
 - LoadImage -> RayLoadImage
